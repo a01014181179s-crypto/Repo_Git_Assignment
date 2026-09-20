@@ -4,7 +4,7 @@ Name: Ali Ahmed Hassan Sawan
 
 #include <stdio.h>
 
-//--Assinment at Pdf--
+//--Assignment at Pdf--
 
 //#include <stdio.h>
 //
@@ -71,25 +71,23 @@ Name: Ali Ahmed Hassan Sawan
 //}
 
 //---Ex.6------
-
-float a,b,New;
-void main()
-{
-	printf("Enter a value of a:");
-	fflush(stdin);fflush(stdout);
-	scanf("%f",&a);
-	printf("Enter a value of b:");
-	fflush(stdin);fflush(stdout);
-	scanf("%f",&b);
-	New = a;      //Make a in variable because it removed when is changing
-	a = b;        //New a value = b
-	b = New;      //Take kept value from New
-	printf("The value of a: %f",a);
-	printf("\nThe value of b: %f",b);
-}
-
-
-
+//
+//float a,b,New;
+//void main()
+//{
+//	printf("Enter a value of a:");
+//	fflush(stdin);fflush(stdout);
+//	scanf("%f",&a);
+//	printf("Enter a value of b:");
+//	fflush(stdin);fflush(stdout);
+//	scanf("%f",&b);
+//	New = a;      //Make a in variable because it removed when is changing
+//	a = b;        //New a value = b
+//	b = New;      //Take kept value from New
+//	printf("The value of a: %f",a);
+//	printf("\nThe value of b: %f",b);
+//}
+//
 
 
 
